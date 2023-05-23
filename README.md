@@ -25,7 +25,6 @@
 ---
 
 ## 📈 ***Abilities***
----
 
 - [x] Working underpressure.
 - [x] Problem Solving.
