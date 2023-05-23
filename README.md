@@ -1,8 +1,9 @@
-# **Karim Osmani** <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### **Karim Osmani** <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 
 ## 📊 ***Education***
 ---
+
 | Entity | Study Field | Year |
 |:---------:|:-------------:|:-----:|
 | Lebanese University Faculty of science 3 - Tripoli| Master Degree in computer sciences | 2022-current |
@@ -21,6 +22,16 @@
 <a href="https://www.w3schools.com/java/default.asp"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="CSS" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
+---
+
+## 📈 ***Abilities***
+---
+
+- [x] Working underpressure.
+- [x] Problem Solving.
+- [x] Communication
+- [x] Time control.
+- [x] Team work.
 ---
 🔗 &nbsp;**Connect with me**
 <p align="left">
